@@ -4,3 +4,6 @@ console.log("Hello");
 app.listen(9898,()=>{
     console.log("server started");
 })
+console.log("Hello snehal");
+console.log("Hello ishwari");
+console.log("Hello virya");
